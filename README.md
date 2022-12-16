@@ -229,7 +229,7 @@ SP
 
 
 ## 手順３：リポジトリの作成
-ここからGitHubでの操作となります。
+ここからGitHubでの操作となります。  
 まず、WEBページの元となるHTMLファイルやCSSファイルを格納するための箱（リポジトリ）を作成します。  
 下の画像の様に「＋」ボタンから「New repository」を選択します。
 <div style="text-align: center">
@@ -280,8 +280,8 @@ WEBページを公開する準備ができたので、GitHub Pagesの設定を�
 ---
 
 お疲れ様でした。作業は終了になります。  
-5分程度反映に時間がかかるので待機すると、先程の画面が次のように変わります。
-そして、画面内の「Your site is live at」のリンクをクリックすると公開されたWEBページにアクセスすることができます。やったね。
+5分程度反映に時間がかかるので待機すると、先程の画面が次のように変わります。  
+そして、画面内の「Your site is live at」のリンクをクリックすると公開されたWEBページにアクセスすることができます。やったね。  
 ※GitHub Pagesを使ったWEBページは「https://is0383kk.github.io/GitHub-Pages-Tutorial/」 の様に「https://アカウント名.github.io/リポジトリ名/」 でアクセスすることができます。
 
 <div style="text-align: center">
