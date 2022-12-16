@@ -1,6 +1,10 @@
 # Github Pagesのチュートリアル
 GitHubの機能の１つであるGitHub Pagesを使うことで[このようなWEBページ](https://is0383kk.github.io/GitHub-Pages-Tutorial/index.html)を簡単に作れます。
 
+<div style="text-align: center">
+<img src='/img/8.png' width="400px">
+</div>
+
 ## 手順１：HTMLファイル
 初めにWEBページの元となる**HTMLファイル**を作成します。  
 まずHTMLファイルを作成します。  
@@ -225,7 +229,8 @@ SP
 
 
 ## 手順３：リポジトリの作成
-ここからGitHubでの操作となります。WEBページの元となるHTMLファイルやCSSファイルを格納するための箱（リポジトリ）を作成します。  
+ここからGitHubでの操作となります。
+まず、WEBページの元となるHTMLファイルやCSSファイルを格納するための箱（リポジトリ）を作成します。  
 下の画像の様に「＋」ボタンから「New repository」を選択します。
 <div style="text-align: center">
 <img src='/img/1.png' width="400px">
@@ -248,8 +253,15 @@ SP
 
 ---
 
-次のような画面になるので、「index.html」と「style.css」を。  
+次のような画面になるので、「index.html」と「style.css」をドラッグ&ドロップ操作でアップロードします。  
 <div style="text-align: center">
 <img src='/img/4.png' width="400px">
 <img src='/img/5.png' width="400px">
+</div>
+
+---
+
+すると作成したリポジトリにアップロードした「index.html」と「style.css」があることを確認します。  
+<div style="text-align: center">
+<img src='/img/6.png' width="400px">
 </div>
