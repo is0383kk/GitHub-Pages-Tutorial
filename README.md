@@ -285,5 +285,5 @@ WEBページを公開する準備ができたので、GitHub Pagesの設定を�
 ※GitHub Pagesを使ったWEBページは「https://is0383kk.github.io/GitHub-Pages-Tutorial/」 の様に「https://アカウント名.github.io/リポジトリ名/」 でアクセスすることができます。
 
 <div style="text-align: center">
-<img src='/img/8.png' width="700px">
+<img src='/img/9.png' width="700px">
 </div>
