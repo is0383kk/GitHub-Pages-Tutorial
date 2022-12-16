@@ -7,7 +7,9 @@ GitHubの機能の１つであるGitHub Pagesを使うことで[このようなW
 <div style="text-align: center">
 <img src='/img/1.png' width="400px">
 </div>
+
 ---
+
 すると次のような画面になるので、「Repository name」にリポジトリに名前を入力します。  
 今回の場合、「GitHub-Pages-Tutorial」としています。
 <div style="text-align: center">
