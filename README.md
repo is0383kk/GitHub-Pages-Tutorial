@@ -254,6 +254,7 @@ SP
 ---
 
 次のような画面になるので、「index.html」と「style.css」をドラッグ&ドロップ操作でアップロードします。  
+そして、緑色の「Commit Changes」ボタンを押してリポジトリに反映させます。
 <div style="text-align: center">
 <img src='/img/4.png' width="600px">
 <img src='/img/5.png' width="600px">
@@ -261,7 +262,7 @@ SP
 
 ---
 
-すると作成したリポジトリにアップロードした「index.html」と「style.css」があることを確認します。  
+すると作成したリポジトリにアップロードした「index.html」と「style.css」があることが確認できます。  
 <div style="text-align: center">
 <img src='/img/6.png' width="800px">
 </div>
@@ -270,9 +271,19 @@ SP
 WEBページを公開する準備ができたので、GitHub Pagesの設定を行います。  
 1. リポジトリの「Settingタブ」を選択します。
 2. 「Pages」の項目を選択します。  
-3. 「Branch」の項目を編集します。
-  - 下の画面の様に「None」→「main」にし、フォルダマークの部分を「root」にして「Save」ボタンを押します。
+3. 「Branch」の項目を編集します。下の画面の様に「None」→「main」にし、フォルダマークの部分を「root」にして「Save」ボタンを押します。
+
 <div style="text-align: center">
 <img src='/img/7.png' width="700px">
 </div>
+
 ---
+
+お疲れ様でした。作業は終了になります。  
+5分程度反映に時間がかかるので待機すると、先程の画面が次のように変わります。
+そして、画面内の「Your site is live at」のリンクをクリックすると公開されたWEBページにアクセスすることができます。やったね。
+※GitHub Pagesを使ったWEBページは「https://is0383kk.github.io/GitHub-Pages-Tutorial/」 の様に「https://アカウント名.github.io/リポジトリ名/」 でアクセスすることができます。
+
+<div style="text-align: center">
+<img src='/img/8.png' width="700px">
+</div>
