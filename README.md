@@ -2,7 +2,7 @@
 GitHubの機能の１つであるGitHub Pagesを使うことで[このようなWEBページ](https://is0383kk.github.io/GitHub-Pages-Tutorial/index.html)を簡単に作れます。
 
 <div style="text-align: center">
-<img src='/img/8.png' width="400px">
+<img src='/img/8.png' width="600px">
 </div>
 
 ## 手順１：HTMLファイル
@@ -233,7 +233,7 @@ SP
 まず、WEBページの元となるHTMLファイルやCSSファイルを格納するための箱（リポジトリ）を作成します。  
 下の画像の様に「＋」ボタンから「New repository」を選択します。
 <div style="text-align: center">
-<img src='/img/1.png' width="400px">
+<img src='/img/1.png' width="600px">
 </div>
 
 ---
@@ -241,27 +241,27 @@ SP
 次のような画面になるので、「Repository name」にリポジトリに名前を入力します。  
 今回の場合、「GitHub-Pages-Tutorial」としています。
 <div style="text-align: center">
-<img src='/img/2.png' width="400px">
+<img src='/img/2.png' width="600px">
 </div>
 
 ---
 
 次のような画面になるので、「uploading an existing file」をクリックします。  
 <div style="text-align: center">
-<img src='/img/3.png' width="400px">
+<img src='/img/3.png' width="600px">
 </div>
 
 ---
 
 次のような画面になるので、「index.html」と「style.css」をドラッグ&ドロップ操作でアップロードします。  
 <div style="text-align: center">
-<img src='/img/4.png' width="400px">
-<img src='/img/5.png' width="400px">
+<img src='/img/4.png' width="600px">
+<img src='/img/5.png' width="600px">
 </div>
 
 ---
 
 すると作成したリポジトリにアップロードした「index.html」と「style.css」があることを確認します。  
 <div style="text-align: center">
-<img src='/img/6.png' width="400px">
+<img src='/img/6.png' width="600px">
 </div>
