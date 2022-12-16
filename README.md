@@ -3,7 +3,7 @@ GitHubの機能の１つであるGitHub Pagesを使うことで[このようなW
 ※**GitHubアカウントが必要です！！**
 
 <div style="text-align: center">
-<img src='/img/8.png' width="600px">
+<img src='/img/8.png' width="800px">
 </div>
   
   
