@@ -4,10 +4,9 @@ GitHubの機能の１つであるGitHub Pagesを使うことで[このようなW
 <div style="text-align: center">
 <img src='/img/8.png' width="600px">
 </div>
-
-<div style="text-align: center;">
-  必要なものは<br>GitHubアカウント</br>だけ！！    
-</div>　
+  
+必要なものは<br>GitHubアカウント</br>だけ！！    
+　
 
 ## 手順１：HTMLファイル
 初めにWEBページの元となる**HTMLファイル**を作成します。  
