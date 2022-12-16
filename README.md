@@ -263,5 +263,5 @@ SP
 
 すると作成したリポジトリにアップロードした「index.html」と「style.css」があることを確認します。  
 <div style="text-align: center">
-<img src='/img/6.png' width="600px">
+<img src='/img/6.png' width="800px">
 </div>
