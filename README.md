@@ -5,7 +5,7 @@ GitHubの機能の１つであるGitHub Pagesを使うことで[このようなW
 <img src='/img/8.png' width="600px">
 </div>
   
-必要なものは<br>GitHubアカウント</br>だけ！！    
+<br>必要なものはGitHubアカウントだけ！！</br>
 　
 
 ## 手順１：HTMLファイル
