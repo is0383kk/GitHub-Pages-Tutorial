@@ -265,3 +265,14 @@ SP
 <div style="text-align: center">
 <img src='/img/6.png' width="800px">
 </div>
+
+## 手順５：GitHub Pagesの設定を行う  
+WEBページを公開する準備ができたので、GitHub Pagesの設定を行います。  
+1. リポジトリの「Settingタブ」を選択します。
+2. 「Pages」の項目を選択します。  
+3. 「Branch」の項目を編集します。
+  - 下の画面の様に「None」→「main」にし、フォルダマークの部分を「root」にして「Save」ボタンを押します。
+<div style="text-align: center">
+<img src='/img/7.png' width="700px">
+</div>
+---
